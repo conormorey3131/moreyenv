@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#279257"/>
+      <stop offset="1" stop-color="#0a2417"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <!-- sprout: two leaves + stem, echoing the Morey Environmental logo mark -->
+  <path d="M34 45 C 33 31, 41 20, 55 17 C 56 31, 48 42, 34 45 Z" fill="#fff"/>
+  <path d="M30 47 C 31 37, 25 28, 13 26 C 12 36, 19 45, 30 47 Z" fill="#fff"/>
+  <path d="M32 56 C 32 51, 32 48, 33 45 M31 56 C 31 51, 30.5 49.5, 30 47" stroke="#fff" stroke-width="3.4" stroke-linecap="round" fill="none"/>
+</svg>
